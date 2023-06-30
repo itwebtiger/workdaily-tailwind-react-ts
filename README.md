@@ -1,4 +1,4 @@
-# [WorkDaily UI TailwindCSS React Typescript ⚡️](https://chrisw.vercel.app/projects/react)
+# [WorkDaily UI TailwindCSS React Typescript ⚡️](https://workdaily.vercel.app/admin/default)
 
 Get started and build your dream web app with WorkDaily UI, the trendiest & innovative Open Source Admin Template for Tailwind CSS & React!
 
@@ -15,26 +15,26 @@ Authentication Pages, Profile and so on. Just choose between a Basic Design or a
 
 ### 🎉 [NEW] WorkDaily UI Components
 
-All the main components from both versions, this will help you to see and interact with all & the latest added components of WorkDaily (also, new components are on the way, stay tuned)! ⚡️
-<a href="https://chrisw.vercel.app/projects/react/components" target="_blank">See all components</a>
+This will help you to see and interact with all & the latest added components of WorkDaily (also, new components are on the way, stay tuned)! ⚡️
+<a href="https://chrisw.vercel.app/projects/react/components" target="_blank">See all components(now working...)</a>
 
 ### Documentation
 
-Each element is well presented in a very complex documentation. You can read more about the <a href="https://chrisw.vercel.app/projects/react/installation" target="_blank">documentation here.</a>
+Each element is well presented in a very complex documentation. You can read more about the <a href="https://chrisw.vercel.app/projects/react/dshboard-template" target="_blank">documentation here.</a>
 
 #### Login Pages
 
 - Dark Mode:
-![Login-Dark-Mode](./src/assets/img/readme/login-dark.png)
+  ![Login-Dark-Mode](./src/assets/img/readme/login-dark.png)
 - Light Mode:
-![Login-Dark-Mode](./src/assets/img/readme/login-light.png)
+  ![Login-Dark-Mode](./src/assets/img/readme/login-light.png)
 
 #### Dashboard Pages
 
 - Dark Mode:
-![Dashboard-Dark-Mode](./src/assets/img/readme/dash-dark.png)
+  ![Dashboard-Dark-Mode](./src/assets/img/readme/dash-dark.png)
 - Light Mode:
-![Dashboard-Dark-Mode](./src/assets/img/readme/dash-light.png)
+  ![Dashboard-Dark-Mode](./src/assets/img/readme/dash-light.png)
 
 ### Quick Start
 
